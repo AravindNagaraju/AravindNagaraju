@@ -7,14 +7,14 @@ _July 2019-present_
 
 **The National College, Jayanagar, Bangalore**
 
-Working as a faculty member in Department of Mathematics handling undergraduate classes and Mathematics Lab instructing softwares like SciLab and Maxima.
+#### Working as a faculty member in Department of Mathematics handling undergraduate classes and Mathematics Lab instructing softwares like SciLab and Maxima.
 
 ### Visiting Faculty 
 _January 2021-present_
 
 **Department of PG Studies and Research in Physics**
 
-Working as a visiting faculty in _**Department of Post Graduate Studies and Research in Physics, The National College, Jayanagar**_, teaching _Mathematical Methods for Physics_ and _Computational Physics_ for Post Graduate Physics classes.
+#### Working as a visiting faculty in _**Department of Post Graduate Studies and Research in Physics, The National College, Jayanagar**_, teaching _Mathematical Methods for Physics_ and _Computational Physics_ for Post Graduate Physics classes.
 
 
 ## Contact
