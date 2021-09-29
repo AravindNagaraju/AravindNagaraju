@@ -1,38 +1,20 @@
 A Mathematician and Machine Learning enthusiast. Passionate about Music. Primary research interest in Computational Mathematics, Partial Differential Equations, Machine Learning & Application of Machine Learning in Music.
 
 ## Work Experience
-```
-
-
-```
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Assistant Professor 
+_July 2019-present_
+**The National College, Jayanagar, Bangalore**
+Working as a faculty member in Department of Mathematics handling undergraduate classes and Mathematics Lab instructing softwares like SciLab and Maxima.
 
-- Bulleted
-- List
+### Visiting Faculty 
+_January 2021-present_
+**Department of PG Studies and Research in Physics**
+Working as a visiting faculty in _**Department of Post Graduate Studies and Research in Physics, The National College, Jayanagar**_, teaching _Mathematical Methods for Physics_ and _Computational Physics_ for Post Graduate Physics classes.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AravindNagaraju/AravindNagaraju/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
