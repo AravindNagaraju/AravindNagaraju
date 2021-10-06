@@ -3,3 +3,6 @@ title: Aravind N
 logo: /Docs/MyPic.jpg
 author: GitHub User
 email: your-email@domain.com
+
+github:
+  is_project_page: false
