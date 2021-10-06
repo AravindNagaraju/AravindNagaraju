@@ -1,4 +1,4 @@
-A Mathematician and Machine Learning enthusiast. Passionate about Music. Primary research interest in Computational Mathematics, Partial Differential Equations, Machine Learning & Application of Machine Learning in Music.
+A Mathematician and Machine Learning enthusiast. Passionate about South Indian Classical Music. Primary research interest in Computational Mathematics, Partial Differential Equations, Machine Learning & Application of Machine Learning in Music.
 
 ## Work Experience
 
@@ -16,6 +16,7 @@ _January 2021-present_
 
 #### Working as a visiting faculty in _**Department of Post Graduate Studies and Research in Physics, The National College, Jayanagar**_, teaching _Mathematical Methods for Physics_ and _Computational Physics_ for Post Graduate Physics classes.
 
+You can find the Python codes I have written for few basic topics of Under Graduate Mathematics [here](https://github.com/AravindNagaraju/BSc_Codes)
 
 ## Contact
 
