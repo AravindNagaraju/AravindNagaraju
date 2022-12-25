@@ -22,7 +22,7 @@ _July 2019 - September 2022_
 
 **The National College, Jayanagar, Bangalore**
 
-#### Working as a faculty member in Department of Mathematics handling undergraduate classes and Mathematics Lab instructing softwares like SciLab and Maxima.
+#### Worked as a faculty member in Department of Mathematics handling undergraduate classes and Mathematics Lab instructing softwares like SciLab and Maxima.
 
 
 You can find the Python codes I have written for few basic topics of Under Graduate Mathematics [here](https://github.com/AravindNagaraju/BSc_Codes)
