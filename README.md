@@ -7,7 +7,7 @@ _September 2022 - Present_
 
 **Jain (Deemed-to-be University)**
 
-#### Working as a part time faculty member teaching Mathematics for BCA(AI/Cyber Security), MCA(AI/ML), B.Tech(AI/ Cyber Security) Preograms
+#### Working as a part time faculty member teaching Mathematics for BCA(AI/Cyber Security), MCA(AI/ML), B.Tech(AI/ Cyber Security) Programs
 
 ### Visiting Faculty 
 _January 2021 - Present_
