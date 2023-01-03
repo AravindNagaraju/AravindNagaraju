@@ -1,3 +1,5 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/aravind-nagaraju)
+
 A Mathematician and Machine Learning enthusiast. Passionate about South Indian Classical Music. Primary research interest in Computational Mathematics, Partial Differential Equations, Machine Learning & Application of Machine Learning in Music.
 
 ## Work Experience
