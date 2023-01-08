@@ -4,6 +4,12 @@ logo: /Docs/MyPic.jpg
 author: GitHub User
 email: your-email@domain.com
 linkedin_username: [![LinkedIn Badge]]("linkedin.com/in/aravind-nagaraju")
-
+minima:
+  social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/aravind-nagaraju" }
 github:
   is_project_page: false
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
